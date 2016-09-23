@@ -13,7 +13,10 @@
    id="svg4136"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ubuntu3.svg">
+   sodipodi:docname="running-ubuntu-red-bg.svg"
+   inkscape:export-filename="/home/manjit/github/wallpapers/ubuntu/running-ubuntu-red-bg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata4170">
     <rdf:RDF>
@@ -39,13 +42,13 @@
      inkscape:window-height="1013"
      id="namedview4168"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1321.5153"
-     inkscape:cy="511.88626"
+     inkscape:zoom="0.40096712"
+     inkscape:cx="1017.0715"
+     inkscape:cy="721.1053"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
@@ -69,7 +72,7 @@
        xlink:href="#a"
        fx="386.86072"
        fy="502.2659"
-       gradientTransform="matrix(1.0428083,0,1.2208254e-8,0.71055,83.11105,175.94)"
+       gradientTransform="matrix(1.0433514,0,1.2214612e-8,0.71055,82.654337,175.94)"
        gradientUnits="userSpaceOnUse" />
     <filter
        id="d"
@@ -137,16 +140,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="BG"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       x="0"
+       x="-0.5"
        style="fill:url(#b)"
        id="rect4154"
        ry="0.257"
        y="5.6843419e-14"
        height="1080"
-       width="1920" />
+       width="1921" />
   </g>
   <g
      inkscape:groupmode="layer"

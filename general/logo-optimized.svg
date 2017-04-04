@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="logo" viewBox="0 0 100 100">
+  <g id="logogroup">
+    <path id="logopath" class="bg-target" d="M46 .182A50 50 0 0 0 0 50a50 50 0 0 0 50 50 50 50 0 0 0 19-3.793V49h-9v29c.28 6.224-7.21 9.656-12 5L12 47c-5.483-6 0-12 4-12h30V.182zm14 .832V35h16c3.893.096 6.692 3.226 7 7v45.48A50 50 0 0 0 100 50 50 50 0 0 0 60 1.014zM34 49l12 12V49H34z" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
